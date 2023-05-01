@@ -1,4 +1,4 @@
-# This is a problem I encounted when I using `erase` included in `<algorithm>`
+# This is a problem I encounted when I using `erase` included in `<vector>`
 Let's codes at first.
 ```
 #include <iostream>
